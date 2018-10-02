@@ -1,6 +1,7 @@
 # Intro-To-Programming-5.14
 triangle_char = input('Enter a character:\n')
-triangle_height = int(input('Enter a triangle height:\n'))
+triangle_height = int(input('Enter triangle height:\n'))
+print('')
 x =0 
 y = triangle_height
 while x < y:
